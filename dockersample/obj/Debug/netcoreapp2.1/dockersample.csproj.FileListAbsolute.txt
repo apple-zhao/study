@@ -1,0 +1,14 @@
+/home/ubuntu/sambashare/study/dockersample/bin/Debug/netcoreapp2.1/dockersample.deps.json
+/home/ubuntu/sambashare/study/dockersample/bin/Debug/netcoreapp2.1/dockersample.runtimeconfig.json
+/home/ubuntu/sambashare/study/dockersample/bin/Debug/netcoreapp2.1/dockersample.runtimeconfig.dev.json
+/home/ubuntu/sambashare/study/dockersample/bin/Debug/netcoreapp2.1/dockersample.dll
+/home/ubuntu/sambashare/study/dockersample/bin/Debug/netcoreapp2.1/dockersample.pdb
+/home/ubuntu/sambashare/study/dockersample/obj/Debug/netcoreapp2.1/dockersample.csprojAssemblyReference.cache
+/home/ubuntu/sambashare/study/dockersample/obj/Debug/netcoreapp2.1/dockersample.csproj.CoreCompileInputs.cache
+/home/ubuntu/sambashare/study/dockersample/obj/Debug/netcoreapp2.1/dockersample.RazorAssemblyInfo.cache
+/home/ubuntu/sambashare/study/dockersample/obj/Debug/netcoreapp2.1/dockersample.RazorAssemblyInfo.cs
+/home/ubuntu/sambashare/study/dockersample/obj/Debug/netcoreapp2.1/dockersample.AssemblyInfoInputs.cache
+/home/ubuntu/sambashare/study/dockersample/obj/Debug/netcoreapp2.1/dockersample.AssemblyInfo.cs
+/home/ubuntu/sambashare/study/dockersample/obj/Debug/netcoreapp2.1/dockersample.RazorTargetAssemblyInfo.cache
+/home/ubuntu/sambashare/study/dockersample/obj/Debug/netcoreapp2.1/dockersample.dll
+/home/ubuntu/sambashare/study/dockersample/obj/Debug/netcoreapp2.1/dockersample.pdb
