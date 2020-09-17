@@ -21,7 +21,7 @@ namespace dockersample.Controllers
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
-            return "value";
+            return "newvalue";
         }
 
         // POST api/values
